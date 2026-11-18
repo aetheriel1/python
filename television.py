@@ -34,4 +34,4 @@ class Television:
         if self.__muted:
             return f'Volume = {Television.MIN_VOLUME}'
         else:
-            return f'xxx'
+            return f'test'
